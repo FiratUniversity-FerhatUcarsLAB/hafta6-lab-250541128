@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SinemaBiletSistemi {
+public class SinemaBileti {
 
     // 1) Hafta sonu mu?
     public static boolean isWeekend(int gun) {
@@ -140,3 +140,4 @@ public class SinemaBiletSistemi {
                         base, discount, extra, finalPrice));
     }
 }
+
