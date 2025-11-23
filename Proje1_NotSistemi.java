@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class NotDegerlendirme {
+public class NotSistemi{
 
     // Ortalama hesaplama metodu
     public static double calculateAverage(double vize, double finalNotu, double odev) {
@@ -72,3 +72,4 @@ public class NotDegerlendirme {
             System.out.println("Bütünleme Hakkı: YOK");
     }
 }
+
